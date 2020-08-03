@@ -9,3 +9,5 @@ Concerning the challenge; I returned the minimum, average, and maximum temperatu
 
 The describe function shows an uptrend in precipitation for the month of June 2016 but slowly declining throughout June 2017. The max precipitation for June 2016 is 1.7 and June 2017 is 1.69. The max precipitation for December 2016 is 2.37 and December 2017 is NaN. This isn't enough data to make an informed decision. I would require more key data points in order to ensure I make the right investment.
 
+One insight to how I'm adjusting to new types of data framing, I used two different ways to search for the specified time frame. Unfortunately, the data pulled was not the same but nonetheless, relays the key issues that coding is a frame of mind and each individual's unique approach to pulling data. While I thought it may be nice to not put both types of data pulls, I decided to leave in both approaches as a reference to how I can pull data and continue to learn about different, unique ways to data science.
+
